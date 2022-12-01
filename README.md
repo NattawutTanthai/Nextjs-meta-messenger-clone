@@ -1,5 +1,5 @@
-! [app1] (./public/app-1.png)
-! [app2] (./public/app-2.png)
+! [app1] (./app-1.png)
+! [app2] (./app-2.png)
 
 # Next.js + Tailwind CSS Example
 
