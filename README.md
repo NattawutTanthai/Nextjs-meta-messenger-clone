@@ -1,5 +1,5 @@
-! [app1] (https://raw.githubusercontent.com/NattawutTanthai/Nextjs-meta-messenger-clone/main/public/app-1.png)
-! [app2] (https://raw.githubusercontent.com/NattawutTanthai/Nextjs-meta-messenger-clone/main/public/app-2.png)
+! [app1] (./public/app-1.png)
+! [app2] (./public/app-2.png)
 
 # Next.js + Tailwind CSS Example
 
